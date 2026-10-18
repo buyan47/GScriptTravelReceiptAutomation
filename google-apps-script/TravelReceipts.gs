@@ -13,6 +13,7 @@
 // Safe to re-run. Nothing is deleted, except that an Uber receipt is moved
 // to Trash when a newer version of the same trip replaces it.
 // Files you add to the folders by hand are never touched.
+// Current source code 10/18/26
 // ============================================================
 
 const CONFIG = {
